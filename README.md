@@ -37,13 +37,6 @@ Informes técnicos realizados durante mi formación profesional.
    * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 ---
 
-## 🚀 Skillset
-* **Herramientas**: Limux Tools and SOC Tools
-* **Lenguajes**: Python, Bash.
-* **Sistemas**: Linux (Kali / Ubuntu), Windows.
-
----
-
 ---
 
 ## 🏆 Certificaciones y Formación
@@ -61,6 +54,12 @@ Validación de conocimientos técnicos y metodologías de la industria.
 
 ---
 
+## 🚀 Skillset
+* **Herramientas**: Limux Tools and SOC Tools
+* **Lenguajes**: Python, Bash.
+* **Sistemas**: Linux (Kali / Ubuntu), Windows.
+
+---
 
 ### 📫 Conecta conmigo:
 [LinkedIn](https://www.linkedin.com/in/david-nu%C3%B1ez-fuentes/) | [TryHackMe](https://tryhackme.com/p/An4nsi)
