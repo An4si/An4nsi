@@ -44,5 +44,15 @@ Informes técnicos realizados durante mi formación profesional.
 
 ---
 
+## 🏆 Certificaciones y Formación
+Validación de conocimientos técnicos y metodologías de la industria.
+
+* **eJPTv2** | [Entidad Emisora (ej. TryHackMe, Coursera, Cisco)]
+    * *ID/Credencial*: [Enlace a la credencial o ID]
+* **[Otra Certificación/Curso]** | [Entidad]
+    * *Estado*: En curso / Finalizado.
+
+---
+
 ### 📫 Conecta conmigo:
 [LinkedIn](https://www.linkedin.com/in/david-nu%C3%B1ez-fuentes/) | [TryHackMe](https://tryhackme.com/p/An4nsi)
