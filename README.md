@@ -49,7 +49,7 @@ Validación de conocimientos técnicos y metodologías de la industria.
 * **eJPTv2 (Certified Junior Penetration Tester)** | **INE**
   ![Certificación eJPTv2](https://raw.githubusercontent.com/An4si/An4nsi/main/Certificacion%20eJPTv2.jpg)
     * **Habilidades**: Auditoría de redes, explotación, post-explotación y Pivoting de redes.
-    * **Credencial**: [Ver Certificado Oficial](https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo)
+    * [Ver Certificado Oficial](https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo)
 
 * **Bootcamp de Ciberseguridad** | **The Bridge**
     * **Estado**: En curso (2025-2026)
