@@ -33,4 +33,4 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 ---
 
 ### 📫 Conecta conmigo:
-[LinkedIn](AQUÍ_TU_ENLACE_DE_PERFIL) | [TryHackMe](AQUÍ_TU_PERFIL_THM)
+[LinkedIn](https://www.linkedin.com/in/david-nu%C3%B1ez-fuentes/) | [TryHackMe](https://tryhackme.com/p/An4nsi)
