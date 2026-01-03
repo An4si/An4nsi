@@ -56,7 +56,7 @@ Validación de conocimientos técnicos y metodologías de la industria.
 <br>
 
 ## 🚀 Skillset
-* **Herramientas**: Limux Tools and SOC Tools
+* **Herramientas**: Linux Tools and SOC Tools
 * **Lenguajes**: Python, Bash.
 * **Sistemas**: Linux (Kali / Ubuntu), Windows.
 <br>  
