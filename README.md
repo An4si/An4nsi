@@ -48,7 +48,7 @@ Informes técnicos realizados durante mi formación profesional.
 Validación de conocimientos técnicos y metodologías de la industria.
 
 * **eJPTv2 (Certified Junior Penetration Tester)** | **INE** * *Habilidades*: Auditoría de redes, evaluación de vulnerabilidades, explotación y post-explotación (Metasploit, Nmap, **Crackmapexec** [cite: 2025-12-23]).
-    * [Ver Credencial]([AQUÍ_TU_ENLACE_A_LA_CREDENCIAL_DE_INE_O_CREDLY](https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo))
+    * [Ver Credencial]([(https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo)])
 
 * **Bootcamp de Ciberseguridad** | **The Bridge**
     * *Estado*: En curso (2025-2026)
