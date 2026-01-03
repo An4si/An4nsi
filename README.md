@@ -15,10 +15,14 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 ---
 
 
+
+
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
 * Proyectos de análisis de logs y Hardening de sistemas Linux.
 
 ---
+
+
 
 ## 🎓 Proyectos Académicos e Informes de Auditoría
 Informes técnicos realizados durante mi formación profesional.
@@ -32,12 +36,15 @@ Informes técnicos realizados durante mi formación profesional.
 
 ---
 
+
+
 ## 🛠️ Herramientas y Scripts
 *  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
    * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 ---
 
----
+
+
 
 ## 🏆 Certificaciones y Formación
 Validación de conocimientos técnicos y metodologías de la industria.
