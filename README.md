@@ -12,7 +12,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
     * *Explotacion*:RCE en elFinder, Movimiento lateral con Python y Escalada de privilegios vía PATH Hijacking.
 * **[Próximo Proyecto]**: Próximamente...
 
----
+
 
 
 
@@ -20,7 +20,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
 * Proyectos de análisis de logs y Hardening de sistemas Linux.
 
----
+
 
 
 
@@ -34,14 +34,14 @@ Informes técnicos realizados durante mi formación profesional.
     * Investigación de fuentes abiertas (OSINT) centrada en la recolección de inteligencia y análisis de exposición digital.
     * *Habilidades*: Google Dorking, análisis de metadatos, gestión de privacidad y redacción de informes para perfiles directivos.
 
----
+
 
 
 
 ## 🛠️ Herramientas y Scripts
 *  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
    * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
----
+
 
 
 
@@ -59,14 +59,12 @@ Validación de conocimientos técnicos y metodologías de la industria.
     * **Enfoque**: Formación integral en Red Team, Blue Team, análisis de logs y cumplimiento normativo.
     * **Habilidades**: Gestión de incidentes, Hardening de sistemas y metodologías de auditoría.
 
----
 
 ## 🚀 Skillset
 * **Herramientas**: Limux Tools and SOC Tools
 * **Lenguajes**: Python, Bash.
 * **Sistemas**: Linux (Kali / Ubuntu), Windows.
-
----
+  
 
 ### 📫 Conecta conmigo:
 [LinkedIn](https://www.linkedin.com/in/david-nu%C3%B1ez-fuentes/) | [TryHackMe](https://tryhackme.com/p/An4nsi)
