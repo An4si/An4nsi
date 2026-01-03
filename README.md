@@ -13,13 +13,9 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 * **[Próximo Proyecto]**: Próximamente...
 
 <br>
-<br>
-<br>
 
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
 * Proyectos de análisis de logs y Hardening de sistemas Linux.
-<br>
-<br>
 <br>
 
 
