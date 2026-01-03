@@ -8,14 +8,14 @@
 ## 🔴 Offensive Security (Red Team)
 Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada de privilegios.
 
-* * [THM: LookUp - Writeup Completo](https://github.com/An4si/THM-LookUp-Writeup-ES-)
+*  [THM: LookUp - Writeup Completo](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * *Explotacion*:RCE en elFinder, Movimiento lateral con Python y Escalada de privilegios vía PATH Hijacking.
 * **[Próximo Proyecto]**: Próximamente...
 
 ---
 
 ## 🛠️ Herramientas y Scripts
-* * **[Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln)**: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
+**[Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln)**: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 * **UserEnum**: Script de enumeración de usuarios (desarrollado durante el reto LookUp).
 
 ---
