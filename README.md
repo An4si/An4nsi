@@ -11,6 +11,9 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 *  [THM: LookUp - Writeup Completo](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * *Explotacion*:RCE en elFinder, Movimiento lateral con Python y Escalada de privilegios vía PATH Hijacking.
 * **[Próximo Proyecto]**: Próximamente...
+* **[THM: Publisher - De RCE en SPIP a Bypass de AppArmor](https://github.com/An4si/THM---Publisher-De-RCE-en-SPIP-a-Bypass-de-AppArmor)**: 
+    * **Habilidades**: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.
+    * **Dificultad**: Media 🟠
 
 <br>
 
