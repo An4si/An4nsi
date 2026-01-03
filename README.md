@@ -26,7 +26,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 ---
 
 ## 🚀 Skillset
-* **Herramientas**: Nmap, Crackmapexec [cite: 2025-12-23], Burp Suite, Metasploit.
+* **Herramientas**: Limux Tools and SOC Tools
 * **Lenguajes**: Python, Bash.
 * **Sistemas**: Linux (Kali / Ubuntu), Windows.
 
