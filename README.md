@@ -8,7 +8,7 @@
 ## 🔴 Offensive Security (Red Team)
 Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada de privilegios.
 
-* **[THM: LookUp - Writeup Completo]([[./THM-LookUp-Writeup-ES-]](https://github.com/An4si/THM-LookUp-Writeup-ES-.git))**
+* * [THM: LookUp - Writeup Completo](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * *Explotacion*:RCE en elFinder, Movimiento lateral con Python y Escalada de privilegios vía PATH Hijacking.
 * **[Próximo Proyecto]**: Próximamente...
 
