@@ -46,20 +46,22 @@ Informes técnicos realizados durante mi formación profesional.
 
 ---
 
+---
+
 ## 🏆 Certificaciones y Formación
 Validación de conocimientos técnicos y metodologías de la industria.
 
 * **eJPTv2 (Certified Junior Penetration Tester)** | **INE**
-
-![Certificación eJPTv2](https://raw.githubusercontent.com/An4si/An4nsi/main/Certificacion%20eJPTv2.jpg)
-
-
-   * Habilidades*: Auditoría de redes, evaluación de vulnerabilidades, explotación, post-explotación y Pivoting de redes.
-   * [Ver Credencial Oficial](https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo)
+    * ![Certificación eJPTv2](https://raw.githubusercontent.com/An4si/An4nsi/main/Certificacion%20eJPTv2.jpg)
+    * **Habilidades**: Auditoría de redes, explotación, post-explotación (Metasploit, **Crackmapexec** [cite: 2025-12-23]) y Pivoting de redes.
+    * **Credencial**: [Ver Certificado Oficial](https://certs.ine.com/bf0b3997-d886-456a-8d8c-32f9e38102f8#acc.8kpdvlPo)
 
 * **Bootcamp de Ciberseguridad** | **The Bridge**
-    * *Estado*: En curso (2025-2026)
-    * *Enfoque*: Formación intensiva en Red Team, Blue Team, análisis de logs y cumplimiento normativo.
+    * **Estado**: En curso (2025-2026)
+    * **Enfoque**: Formación integral en Red Team, Blue Team, análisis de logs y cumplimiento normativo.
+    * **Habilidades**: Gestión de incidentes, Hardening de sistemas y metodologías de auditoría.
+
+---
 
 ---
 
