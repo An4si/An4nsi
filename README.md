@@ -14,12 +14,6 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 
 ---
 
-## 🛠️ Herramientas y Scripts
-*  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
-   * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
- 
-
----
 
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
 * Proyectos de análisis de logs y Hardening de sistemas Linux.
@@ -38,6 +32,9 @@ Informes técnicos realizados durante mi formación profesional.
 
 ---
 
+## 🛠️ Herramientas y Scripts
+*  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
+   * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 ---
 
 ## 🚀 Skillset
