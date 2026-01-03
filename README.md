@@ -37,7 +37,7 @@ Informes técnicos realizados durante mi formación profesional.
 
 ## 🛠️ Herramientas y Scripts
 *  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
-   * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
+   * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 
 <br>
 
