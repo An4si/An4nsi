@@ -28,7 +28,7 @@ Informes técnicos realizados durante mi formación profesional.
 * **[Informe Ejecutivo - Investigación OSINT](https://github.com/An4si/Academic-Security-Labs/blob/main/Informe%20Ejecutivo.pdf)**: 
     * Investigación de fuentes abiertas (OSINT) centrada en la recolección de inteligencia y análisis de exposición digital.
     * *Habilidades*: Google Dorking, análisis de metadatos, gestión de privacidad y redacción de informes para perfiles directivos.
-
+<br>
 
 
 
@@ -37,7 +37,7 @@ Informes técnicos realizados durante mi formación profesional.
 *  [Script-Scan-Vuln](https://github.com/An4si/Script-Scan-Vuln):
    * Mi herramienta personalizada en Python para el escaneo de vulnerabilidades: Mi herramienta personalizada en Python para el escaneo de vulnerabilidades.
 
-
+<br>
 
 
 
@@ -53,13 +53,13 @@ Validación de conocimientos técnicos y metodologías de la industria.
     * **Estado**: En curso (2025-2026)
     * **Enfoque**: Formación integral en Red Team, Blue Team, análisis de logs y cumplimiento normativo.
     * **Habilidades**: Gestión de incidentes, Hardening de sistemas y metodologías de auditoría.
-
+<br>
 
 ## 🚀 Skillset
 * **Herramientas**: Limux Tools and SOC Tools
 * **Lenguajes**: Python, Bash.
 * **Sistemas**: Linux (Kali / Ubuntu), Windows.
-  
+<br>  
 
 ### 📫 Conecta conmigo:
 [LinkedIn](https://www.linkedin.com/in/david-nu%C3%B1ez-fuentes/) | [TryHackMe](https://tryhackme.com/p/An4nsi)
