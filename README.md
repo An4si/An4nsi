@@ -28,7 +28,7 @@ Informes técnicos realizados durante mi formación profesional.
     * Descripción* Análisis integral de seguridad en red interna, incluyendo identificación de vulnerabilidades y propuestas de remediación.
     * Habilidades*: Redacción de informes de nivel ejecutivo y técnico, evaluación de riesgos y cumplimiento.
 * **[Informe Ejecutivo - Investigación OSINT](https://github.com/An4si/Academic-Security-Labs/blob/main/Informe%20Ejecutivo.pdf)**: 
-    * Investigación de fuentes abiertas (OSINT) centrada en la recolección de inteligencia y análisis de exposición digital.
+    * Investigación *: de fuentes abiertas (OSINT) centrada en la recolección de inteligencia y análisis de exposición digital.
     * *Habilidades*: Google Dorking, análisis de metadatos, gestión de privacidad y redacción de informes para perfiles directivos.
 <br>
 
