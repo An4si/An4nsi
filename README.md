@@ -47,10 +47,12 @@ Informes técnicos realizados durante mi formación profesional.
 ## 🏆 Certificaciones y Formación
 Validación de conocimientos técnicos y metodologías de la industria.
 
-* **eJPTv2** | [Entidad Emisora (ej. TryHackMe, Coursera, Cisco)]
-    * *ID/Credencial*: [Enlace a la credencial o ID]
-* **[Otra Certificación/Curso]** | [Entidad]
-    * *Estado*: En curso / Finalizado.
+* **eJPTv2 (Certified Junior Penetration Tester)** | **INE** * *Habilidades*: Auditoría de redes, evaluación de vulnerabilidades, explotación y post-explotación (Metasploit, Nmap, **Crackmapexec** [cite: 2025-12-23]).
+    * [Ver Credencial](AQUÍ_TU_ENLACE_A_LA_CREDENCIAL_DE_INE_O_CREDLY)
+
+* **Bootcamp de Ciberseguridad** | **The Bridge**
+    * *Estado*: En curso (2025-2026)
+    * *Enfoque*: Formación integral en Red Team, Blue Team y cumplimiento normativo.
 
 ---
 
