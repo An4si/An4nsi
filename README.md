@@ -12,16 +12,15 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
     * *Explotacion*:RCE en elFinder, Movimiento lateral con Python y Escalada de privilegios vía PATH Hijacking.
 * **[Próximo Proyecto]**: Próximamente...
 
-
-
-
-
+<br>
+<br>
+<br>
 
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
 * Proyectos de análisis de logs y Hardening de sistemas Linux.
-
-
-
+<br>
+<br>
+<br>
 
 
 ## 🎓 Proyectos Académicos e Informes de Auditoría
