@@ -8,12 +8,12 @@
 ## 🔴 Offensive Security (Red Team)
 Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada de privilegios.
 
-* **[THM: MagnusBilling - De RCE a Root vía Fail2Ban](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 🕷️  
-    *WriteUP: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
+* **[THM: MagnusBilling - De RCE a Root vía Fail2Ban](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 
+   * *WriteUP: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
 *  [THM: LookUp - RCE en elFinder](https://github.com/An4si/THM-LookUp-Writeup-ES-)
-    * **WriteUP**: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.**
+    * *WriteUP**: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.*
 * **[THM: Publisher - De RCE en SPIP a Bypass de AppArmor](https://github.com/An4si/THM---Publisher-De-RCE-en-SPIP-a-Bypass-de-AppArmor)**: 
-    * **WriteUp**: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.
+    * *WriteUp**: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.*
       
 
 <br>
