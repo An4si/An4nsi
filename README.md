@@ -8,7 +8,7 @@
 ## 🔴 Offensive Security (Red Team)
 Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada de privilegios.
 
-* **[MagnusBilling - De RCE a Root vía Fail2Ban (TryHackMe)](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 🕷️  
+* **[THM: MagnusBilling - De RCE a Root vía Fail2Ban](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 🕷️  
     *Enfoque: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
 *  [THM: LookUp - Writeup Completo](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * **Hablidades**: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.**
