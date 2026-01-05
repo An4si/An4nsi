@@ -9,7 +9,7 @@
 Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada de privilegios.
 
 * **[THM: Heartbleed - Fuga de memoria en OpenSSL](https://github.com/An4si/THM-Heartbleed-CVE-2014-0160)** 
-   * *WriteUp:Explotación del CVE-2014-0160 (Buffer Over-read) para la recuperación de información sensible y credenciales directamente de la memoria RAM del servidor.*
+   * *WriteUp: Explotación del CVE-2014-0160 (Buffer Over-read) para la recuperación de información sensible y credenciales directamente de la memoria RAM del servidor.*
 * **[THM: MagnusBilling - De RCE a Root vía Fail2Ban](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 
    * *WriteUP: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
 *  [THM: LookUp - RCE en elFinder](https://github.com/An4si/THM-LookUp-Writeup-ES-)
