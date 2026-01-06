@@ -15,7 +15,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 * **[THM: MagnusBilling](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 
    * *WriteUP: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
 * [THM: Brooklyn Nine Nine](https://github.com/An4si/THM-Brooklyn-Nine-Nine)
-    * *WriteUp: Anonymous FTP, Steganography & Privilege Escalation
+    * *WriteUp:* Anonymous FTP, Steganography & Privilege Escalation
 *  [THM: LookUp](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * *WriteUp*: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.*
 * **[THM: Publisher](https://github.com/An4si/THM---Publisher-De-RCE-en-SPIP-a-Bypass-de-AppArmor)**: 
