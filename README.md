@@ -24,6 +24,9 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
     * *WriteUp:* Enumeración técnica (SSL), análisis de protocolos (HTTP) y Sudbdomain TakeOver
 * [HTB: CAP](https://github.com/An4si/HTB-Cap)
     * *WriteUp:* Insecure Direct Object Reference, PCAP Analysis y Linux Capabilities
+* [DockerLabs: WalkingCMS](https://github.com/An4si/DockerLabs---WalkingCMS)
+    * *WriteUp:* Fuerza Bruta en Wordpress(CMS), Reverse Shell y SUID Abuse
+
       
 
 <br>
