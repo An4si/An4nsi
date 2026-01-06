@@ -22,6 +22,8 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
     * *WriteUp*: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.*
 * [THM: TakeOver](https://github.com/An4si/THM-TakeOver/blob/main/README.md)
     * *WriteUp:* Enumeración técnica (SSL), análisis de protocolos (HTTP) y Sudbdomain TakeOver
+* [HTB: CAP](https://github.com/An4si/HTB-Cap/tree/main)
+    * *WriteUp:
       
 
 <br>
