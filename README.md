@@ -14,7 +14,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
    * *WriteUp: Explotación del CVE-2014-0160 (Buffer Over-read) para la recuperación de información sensible y credenciales directamente de la memoria RAM del servidor.*
 * **[THM: MagnusBilling](https://github.com/An4si/THM-MagnusBilling-RCE-to-Fail2Ban-LPE.)** 
    * *WriteUP: Explotación de CMS VoIP y escalada de privilegios mediante inyección de lógica en Fail2Ban.*
-* **[THM: Brooklyn Nine Nine]
+* **[THM: Brooklyn Nine Nine](https://github.com/An4si/THM-Brooklyn-Nine-Nine)
     * *WriteUp: 
 *  [THM: LookUp](https://github.com/An4si/THM-LookUp-Writeup-ES-)
     * *WriteUp**: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.*
