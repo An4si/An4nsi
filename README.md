@@ -53,7 +53,8 @@ Informes técnicos realizados durante mi formación profesional.
 ## 🛠️ Herramientas y Scripts
 * [Script para automatizar la conexion VPN para CTF's](https://github.com/An4si/Script-VPN)
   *  **Automatización de conexiones OpenVPN con gestión de procesos y verificación de IP en tiempo real.**
-
+* [Script para Enumeracion de usuarios basado en errores diferenciales CWE-104 ](https://github.com/An4si/User-Enumeration-Script-Python-)
+  * **Script desarrollado para explotar vulnerabilidades de Observación de Respuesta Diferencial
 <br>
 
 
