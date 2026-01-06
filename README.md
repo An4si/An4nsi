@@ -37,7 +37,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 
 
 ## 🎓 Proyectos Académicos e Informes de Auditoría
-Informes técnicos realizados durante mi formación profesional.
+Informes técnicos realizados durante mi formación academica.
 
 * **[Informe Técnico - Ejecutivo (Laboratorio de Auditoría)](https://github.com/An4si/Academic-Security-Labs/blob/main/Informe%20T%C3%A9cnico%20-%20Ejecutivo.pdf)**: 
     * **Descripción** Análisis integral de seguridad en red interna, incluyendo identificación de vulnerabilidades y propuestas de remediación.
