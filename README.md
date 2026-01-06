@@ -17,11 +17,11 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 * [THM: Brooklyn Nine Nine](https://github.com/An4si/THM-Brooklyn-Nine-Nine)
     * *WriteUp: Anonymous FTP, Steganography & Privilege Escalation
 *  [THM: LookUp](https://github.com/An4si/THM-LookUp-Writeup-ES-)
-    * *WriteUp**: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.*
+    * *WriteUp*: **RCE** en elFinder, Movimiento lateral con **Python** y Escalada de privilegios vía **PATH Hijacking.*
 * **[THM: Publisher](https://github.com/An4si/THM---Publisher-De-RCE-en-SPIP-a-Bypass-de-AppArmor)**: 
-    * *WriteUp**: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.*
+    * *WriteUp*: Explotación de RCE (SPIP), **Bypass de AppArmor**, escape de shell ASH y abuso de SUID.*
 * [THM: TakeOver](https://github.com/An4si/THM-TakeOver/blob/main/README.md)
-    * *WriteUp: Enumeración técnica (SSL), análisis de protocolos (HTTP) y Sudbdomain TakeOver
+    * *WriteUp:* Enumeración técnica (SSL), análisis de protocolos (HTTP) y Sudbdomain TakeOver
       
 
 <br>
