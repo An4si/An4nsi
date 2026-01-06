@@ -23,7 +23,7 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 * [THM: TakeOver](https://github.com/An4si/THM-TakeOver/blob/main/README.md)
     * *WriteUp:* Enumeración técnica (SSL), análisis de protocolos (HTTP) y Sudbdomain TakeOver
 * [HTB: CAP](https://github.com/An4si/HTB-Cap)
-    * *WriteUp: IDOR, PCAP Analysis y Linux Capabilities
+    * *WriteUp:* Insecure Direct Object Reference, PCAP Analysis y Linux Capabilities
       
 
 <br>
