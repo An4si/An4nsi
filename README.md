@@ -32,7 +32,13 @@ Proyectos enfocados en Pentesting, explotación de vulnerabilidades y escalada d
 <br>
 
 ## 🔵 Defensive Security (Blue Team) - *En progreso*
-* Proyectos de análisis de logs y Hardening de sistemas Linux.
+* Análisis de logs, Mitigación de amenazas y Fortificación de infraestructura.
+
+*  **[Informe Academico - Securización de Entornos Vulnerables](https://github.com/An4si/Academic-Security-Labs/blob/main/Informe%20Academico%20-%20Entorno%20pfSense%20y%20WAF%20Mod_Security.pdf)**
+*  Descripción:* Implementación de una arquitectura de Defensa en Profundidad para proteger activos críticos (
+*  Habilidades:* Firewalling, Hardening y desarrollo de reglas personalizadas (Regex) para la mitigación de ataques SQL Injection (Tautologías, UNION SELECT, DML) y Path Traversal.
+
+
 <br>
 
 
